@@ -470,6 +470,10 @@ and continue to the end of the line.
 
 samples:
 
+<!--
+# REUSE-IgnoreStart
+-->
+
 ```turtle
 # SPDX-FileCopyrightText: Organization-X
 #
@@ -514,6 +518,10 @@ BASE # Base comment 2
 
 # ...
 ```
+
+<!--
+# REUSE-IgnoreEnd
+-->
 
 As this example tries to show (quite over-excessively so, of course),
 is that comments usually have a scope,
