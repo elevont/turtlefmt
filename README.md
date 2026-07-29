@@ -23,8 +23,8 @@ SPDX-License-Identifier: Apache-2.0
     https://docs.rs/prttl/badge.svg)](
     https://docs.rs/prttl)
 [![Dependency Status](
-    https://deps.rs/repo/codeberg.org/elevont/prttl/status.svg)](
-    https://deps.rs/repo/codeberg.org/elevont/prttl)
+    https://deps.rs/repo/codeberg/elevont/prttl/status.svg)](
+    https://deps.rs/repo/codeberg/elevont/prttl)
 [![Build Status](
     https://github.com/elevont/prttl/workflows/build/badge.svg)](
     https://github.com/elevont/prttl/actions)
